@@ -1,0 +1,12 @@
+{
+  "name": "TON Development Environment",
+  "dockerFile": "Dockerfile",
+  "extensions": [
+    "ms-vscode.cpptools",
+    "ms-vscode.cmake-tools",
+    "ms-vscode.vscode-node-essentials"
+  ],
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/bash"
+  }
+}
